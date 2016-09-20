@@ -1,0 +1,1 @@
+var isChecked = $('[add_quark]').is(':checked'); check checked is true or false
