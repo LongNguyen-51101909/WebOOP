@@ -1,1 +1,8 @@
 var isChecked = $('[add_quark]').is(':checked'); check checked is true or false
+call function when event trigger use triger
+//Check box
+$('checkbox).prop('checked', true) for jquery above 1.6
+
+// show input for client iput data
+
+var input = promt("message);
