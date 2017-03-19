@@ -31,5 +31,7 @@
     });
     //create object global
     window.QuarkExtension = QuarkExtension;
-    
+        $(document).ready(function () {
+        QuarkExtension.init();
+    });
 }(jQuery));
